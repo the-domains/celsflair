@@ -1,28 +1,18 @@
-name: celsflair
-favicon: null
-layout_spectrum: 0.25681
-typography_spectrum: 0.7267239869106561
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#b9a504'
-    - '#d0d3be'
+    - '#FFFFFF'
+    - '#B9A504'
+    - '#D0D3BE'
     - '#242618'
-    - '#7d6b05'
-  brandStrength: 0.7226113013457507
-  lightness: 0.8667711215093732
-  saturation: 0.8861704042647034
-  rhythmicContrast: 0.8733389850240201
+    - '#7D6B05'
+  brandStrength: 0.722611
+  lightness: 0.866771
+  rhythmicContrast: 0.873338
+  saturation: 0.88617
+cta: {}
+layout_spectrum: 0.256809
+name: celsflair
+opengraph: {}
 purpose: []
+typography_spectrum: 0.726723
